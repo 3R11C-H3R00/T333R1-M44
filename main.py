@@ -24,7 +24,7 @@ def login():
 
             # Redirect to the specified link if login is successful
 
-            return redirect('https://eriic-web-1.onrender.com')
+            return redirect('https://eriic-web-1.onrender.com/')
 
         else:
 
